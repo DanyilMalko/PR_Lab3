@@ -1,0 +1,5 @@
+﻿24 A B C
+23 A C B
+26 C B A
+6 B C A
+12 B A C
